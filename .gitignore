@@ -3,9 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ###sub-folders###
-ch*/test/
-ch*/train/
-ch*/val/
+datasets/*
 
 
 
